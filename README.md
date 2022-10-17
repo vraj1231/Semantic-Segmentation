@@ -10,7 +10,7 @@
 > GDAL: gdal-305–1928-x64-core.msi
 > GDAL: GDAL-3.5.0.win-amd64-py3.6.msi
 
-2. Download link: https://www.lfd.uci.edu/~gohlke/pythonlibs/#rasterio
+2.Download link: https://www.lfd.uci.edu/~gohlke/pythonlibs/#rasterio
 > “rasterio-1.1.8-cp36-cp36m-win_amd64.whl” 
 > “GDAL-3.1.4-cp36-cp36m-win_amd64.whl”. 
 
