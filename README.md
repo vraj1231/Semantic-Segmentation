@@ -1,18 +1,18 @@
 # Semantic-Segmentation
 ## Using aerial images, we gonna classify crop classification using pixel-wise classification.
 #BLOG: https://medium.com/@mistryvraj3198/semantic-segmentation-satellite-images-95ce75144809
-1. Please like and share!
+> Please like and share!
 
-2. Tensorflow-GPU 2.6 with python 3.6 
-3. Rasterio 
+> Tensorflow-GPU 2.6 with python 3.6 
+> Rasterio 
 
-4.Download link: https://www.gisinternals.com/release.php
-  GDAL: gdal-305–1928-x64-core.msi
-  GDAL: GDAL-3.5.0.win-amd64-py3.6.msi
+1.Download link: https://www.gisinternals.com/release.php
+> GDAL: gdal-305–1928-x64-core.msi
+> GDAL: GDAL-3.5.0.win-amd64-py3.6.msi
 
-5. Download link: https://www.lfd.uci.edu/~gohlke/pythonlibs/#rasterio
-  “rasterio-1.1.8-cp36-cp36m-win_amd64.whl” 
-  “GDAL-3.1.4-cp36-cp36m-win_amd64.whl”. 
+2. Download link: https://www.lfd.uci.edu/~gohlke/pythonlibs/#rasterio
+> “rasterio-1.1.8-cp36-cp36m-win_amd64.whl” 
+> “GDAL-3.1.4-cp36-cp36m-win_amd64.whl”. 
 
 #### Actual Data given
 ![image](https://user-images.githubusercontent.com/60303995/196087913-3cd22e2d-cf53-4bea-8495-0c30ca33eb86.png)
